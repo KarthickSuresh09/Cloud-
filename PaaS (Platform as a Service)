@@ -1,0 +1,14 @@
+You focus only on your application and data. The provider manages everything else.
+🧑‍💻 You manage:
+* Data
+* Applications
+☁️ Provider manages:
+* Networking
+* Storage
+* Servers
+* Virtualization
+* OS
+* Middleware
+* Runtime
+✅ Fast development, no need to manage servers or OS.
+
