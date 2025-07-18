@@ -1,0 +1,14 @@
+The cloud provider gives you virtualized infrastructure (servers, storage, network). You manage the OS and everything above it.
+🖥️ You manage:
+* OS
+* Middleware
+* Runtime
+* Data
+* Applications
+☁️ Provider manages:
+* Networking
+* Storage
+* Servers
+* Virtualization
+✅ Flexibility + control without hardware headaches.
+
